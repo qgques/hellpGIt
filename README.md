@@ -1,0 +1,2 @@
+# hellpGIt
+first use git 
